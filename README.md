@@ -28,7 +28,12 @@
 こちらから参照、ダウンロードしてください。  
 * [テスト種別&観点カタログガイド.pdf](./docs/テスト種別&観点カタログガイド.pdf?raw=true)  
 * [テスト種別カタログ.xlsx](./docs/テスト種別カタログ.xlsx?raw=true)  
-* [テスト観点カタログ.xlsx](./docs/テスト観点カタログ.xlsx?raw=true)
+* [テスト種別カタログ.pdf](./docs/テスト種別カタログ.pdf?raw=true)
+* [テスト観点カタログ.xlsx](./docs/テスト観点カタログ.xlsx?raw=true) 
+* [テスト観点カタログ.pdf](./docs/テスト観点カタログ.pdf?raw=true)
+
+
+　
 
 ## ライセンス
 
